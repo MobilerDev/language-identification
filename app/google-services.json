@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166435082679",
+    "firebase_url": "https://ml-kit-90b7f.firebaseio.com",
+    "project_id": "ml-kit-90b7f",
+    "storage_bucket": "ml-kit-90b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166435082679:android:7ced464a34fc41e06ad832",
+        "android_client_info": {
+          "package_name": "com.ajdaakter.languageidentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166435082679-rnrd6gjoc89l3q53k91pnjg96kuiatu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTSW49xyQiHGb1aZm1-UYsVFfP31owKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166435082679-rnrd6gjoc89l3q53k91pnjg96kuiatu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
