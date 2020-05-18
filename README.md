@@ -1,5 +1,4 @@
-
-# Language Identification
+# Language Identification    ![icons8-sign-language-48](https://user-images.githubusercontent.com/37975010/82252111-1020a200-9957-11ea-9c73-29574c65cf84.png)  
  ```
 With ML Kit's on-device language identification API, you can determine the language of a string 
 of text.Language identification can be useful when working with user-provided text, which often 
